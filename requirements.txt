@@ -1,0 +1,4 @@
+discord.py
+twitchio.ext
+openpyxl
+decouple
