@@ -1,4 +1,3 @@
-discord.py
-twitchio.ext
 openpyxl
 decouple
+twitchio.ext
